@@ -1,6 +1,7 @@
 双收益质押挖矿平台功能说明
 
-<img width="932" height="882" alt="image" src="https://github.com/user-attachments/assets/bf2ddd31-8620-4314-a10e-96966d138b8c" />
+<img width="1293" height="924" alt="1w" src="https://github.com/user-attachments/assets/b42fe955-b9a8-48e1-b21b-24cd1f20d34b" />
+
 
 
 前台功能亮点
@@ -24,7 +25,8 @@
 总算力值显示挖矿效率
 可提现资产余额
 每日质押总收益
-<img width="940" height="905" alt="image" src="https://github.com/user-attachments/assets/137ee187-a75e-4766-a8d5-7446eed110bd" />
+<img width="1248" height="948" alt="3w" src="https://github.com/user-attachments/assets/5d8f792e-46ec-4aee-8b1d-1a7448067f28" />
+
 
 后台配置预览：
 每种资产的算力加成配置（后台可设置）
@@ -35,7 +37,8 @@
 每日挖矿奖励
 社交媒体任务（推特、电报）
 邀请好友系统
-<img width="946" height="870" alt="image" src="https://github.com/user-attachments/assets/c265dbda-b669-45d8-b918-21313b9c3f0d" />
+<img width="1276" height="946" alt="2w" src="https://github.com/user-attachments/assets/4c7939f3-8c89-45cd-93ed-d8e39e3c9289" />
+
 
 ###后台管理系统（ThinkPHP实现）
 质押挖矿配置：
